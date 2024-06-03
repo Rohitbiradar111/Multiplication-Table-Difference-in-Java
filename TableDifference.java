@@ -12,6 +12,7 @@ public class TableDifference {
 
         System.out.println();
 
+        //Another approach
         int n =1;
         while(n<=10)
         {
